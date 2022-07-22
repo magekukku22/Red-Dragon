@@ -19,15 +19,15 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is *#Sanda Bot* 🔥
-My Creator is Sandaruwan😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is *🆂คɳ𝐝𝖆 𝕭𝖔𝖙* 🔥
+My Creator is ᜰ꙰ꦿ➢𝐒𝐚𝐧𝐝𝐚𝐫𝐮𝐰𝐧᭄` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94715107471'] //Owner number in aive msg
 global.premium = ['+94715107471'] //Owner Number info
 global.ownernomer = '+94715107471' //Owner Number <<<
 
-global.ownername = '😎 *#Sandaruwan* ' //Owner Name
-global.botname = ' *#Sanda Bot* ' //Bot Name
+global.ownername = 'ᜰ꙰ꦿ➢𝐒𝐚𝐧𝐝𝐚𝐫𝐮𝐰𝐧᭄' //Owner Name
+global.botname = '🆂คɳ𝐝𝖆 𝕭𝖔𝖙' //Bot Name
 
 global.button = '🤭Whatsapp📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'Wa.me//+94715107471' //Change Your Button's URL
